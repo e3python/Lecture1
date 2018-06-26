@@ -1,3 +1,7 @@
+"raw input"
+'''
+This example is left to show Python 2 code. It has been superseeded with input_example.py
+'''
 # 6.189 Lecture 1
 # raw_input_example.py
 
